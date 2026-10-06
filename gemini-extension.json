@@ -1,0 +1,11 @@
+{
+  "name": "aitho",
+  "version": "1.0.0",
+  "description": "Rehearse and deliver presentations with your own slides: turn a deck into a talk with a speaker script that follows your voice, practise Q&A, and advance slides as you speak.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "aitho": {
+      "httpUrl": "https://present.aitho.app/mcp"
+    }
+  }
+}
