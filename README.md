@@ -1,5 +1,7 @@
 # Aitho for Gemini CLI
 
+[![Aitho is a voice-activated live co-pilot that listens as you speak, advancing your slides and tracking your script in real time.](assets/banner.png)](https://aitho.app/present.html?ref=github&ch=aitho-gemini-extension)
+
 Rehearse and deliver presentations with your own slides. This extension connects Gemini CLI to [Aitho](https://aitho.app), a presentation rehearsal and delivery app, and tells Gemini when and how to use it.
 
 ## What it does
